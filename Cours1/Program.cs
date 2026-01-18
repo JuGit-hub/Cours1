@@ -68,3 +68,8 @@ Console.WriteLine("début fonction" + multiplierParDeux(3));
 int varialr = multiplierParDeux(8);
 
 Console.WriteLine(varialr);
+
+
+// Nouvelle modif
+
+int mavar = 3;
